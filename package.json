@@ -1,0 +1,9 @@
+{
+  "name": "on-chain-identity",
+  "version": "1.0.0",
+  "description": "Soulbound Token Identity Registry",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
