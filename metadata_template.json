@@ -1,0 +1,9 @@
+{
+  "title": "KYC Level 1",
+  "type": "IdentityAttestation",
+  "properties": {
+    "issuer": "VerifiedKYC Corp",
+    "verificationDate": "2026-01-21",
+    "expiry": "2027-01-21"
+  }
+}
